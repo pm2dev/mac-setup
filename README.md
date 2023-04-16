@@ -74,10 +74,12 @@ note: the homebrew documentation can be found here https://brew.sh/
 3. once the installation is complete, close your Terminal window and open a new one
 4. configure your user name and email using the following commands
 
-```git config --global user.name "your name"```
-```git config --global user.email <your email address>```
+```
+git config --global user.name "your name"
+git config --global user.email <your email address>
+```
 
-5. check your configuration by running the command 'git config --global --list'
+5. check your configuration by running the command ```git config --global --list```
 6. create your personal access token in github (instructions: https://docs.github.com/en/authentication/keeping-your-account-and-data-secure/creating-a-personal-access-token)
 
 ### install and configure docker
