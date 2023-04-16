@@ -89,4 +89,4 @@ git config --global user.email <your email address>
 ### install python
 
 ### setup windows 11 for parallels
-# mac-setup
+
